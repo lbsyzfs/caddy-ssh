@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"path/filepath"
-	"strings"
+	"context.Context, strings"
 	
 
 	"github.com/caddyserver/caddy/v2"
